@@ -31,7 +31,7 @@ public class dou1 {
 			}
 			else
 			{
-				System.out.println("The given strinng is not repeat");
+				System.out.println("The given string is not repeat");
 			}
 		}
 
