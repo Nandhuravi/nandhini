@@ -1,7 +1,9 @@
+
 import java.util.Scanner;
 
 
-public class strintmult {
+public class strgmul1
+{
     public static void main(String[] args)
     {
         String str1="";
@@ -28,3 +30,6 @@ public class strintmult {
        System.out.println("result is : "+res);
     }
 }
+
+
+
